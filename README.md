@@ -1,4 +1,4 @@
-# intro_to_programming
+# Intro to Programming
 Get started with Python, if you have no coding experience.
 <pre>
 <h1>Lessons</h1>
