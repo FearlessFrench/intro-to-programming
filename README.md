@@ -2,7 +2,7 @@
 Get started with Python, if you have no coding experience.
 <pre>
 <b>Preparation for</b>
-Python
+<ins>Python</ins>
 
 <b>Hours to earn certificate</b>
 5 (estimated)
@@ -11,7 +11,7 @@ Python
 No cost, like all Kaggle Learn Courses
 
 <b>Instructor</b>
-Alexis Cook
+<ins>Alexis Cook</ins>
 </pre>
 
 
