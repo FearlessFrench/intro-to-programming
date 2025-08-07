@@ -2,19 +2,19 @@
 Get started with Python, if you have no coding experience.
 <pre>
 <h1>Lessons</h1>
-1 Arithmetic and Variables
+<b>1 Arithmetic and Variables</b>
 Make calculations, and define and modify variables.
   
-2 Functions
+<b>2 Functions</b>
 Organize your code and avoid redundancy.
 
-3 Data Types
+<b>3 Data Types</b>
 Explore integers, floats, booleans, and strings.
 
-4 Conditions and Conditional Statements
+<b>4 Conditions and Conditional Statements</b>
 Modify how functions run, depending on the input.
 
-5 Intro to Lists
+<b>5 Intro to Lists</b>
 Organize your data so you can work with it efficiently.
 </pre>
 <pre>
